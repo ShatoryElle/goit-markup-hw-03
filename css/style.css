@@ -37,7 +37,7 @@ img {
     margin: 0 auto;
     padding: 0 15px;
     width: 100%;
-    /*display: flex;*/
+    display: flex;
 }
 
 .header {
