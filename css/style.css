@@ -269,6 +269,7 @@ img {
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.88), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0;
     align-items: center;
     border-radius: 0px 0px 4px 4px;
+    width: calc((100%-72px) / 4);
 }
 
 
@@ -348,6 +349,7 @@ img {
     background-color: #2e2f42;
     font-family: "Raleway", sans-serif;
     padding: 100px 0;
+    display: inline-block;
 }
 
 
